@@ -1,0 +1,12 @@
+﻿project_id,project_name,category,cost,benefit,risk,selected
+P02,Trung tâm AI quốc gia,AI,8500,15600,22,1
+P03,Định danh số mở rộng,GovTech,5200,8100,10,1
+P04,Cloud chính phủ,Infrastructure,7600,12800,14,1
+P06,Chương trình đào tạo kỹ sư AI,Human,6800,11300,8,1
+P07,Số hóa nông nghiệp ĐBSCL,Inclusion,5000,9000,9,1
+P08,Bán dẫn và thiết kế chip,AI,11500,20500,24,1
+P09,An ninh mạng trọng yếu,Cyber,6200,10900,12,1
+P11,Quỹ đổi mới sáng tạo SME,Inclusion,7300,12600,11,1
+P12,Logistics thông minh,Infrastructure,5700,9700,13,1
+P14,Trường học số vùng khó,Human,4700,8900,7,1
+P15,Hạ tầng dữ liệu xanh,Infrastructure,8100,13900,15,1

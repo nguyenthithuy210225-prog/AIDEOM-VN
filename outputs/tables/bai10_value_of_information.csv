@@ -1,0 +1,2 @@
+﻿solver,vss,evpi,interpretation
+pyomo.appsi_highs,0.0,1769.3999999999942,VSS = 0 means the expected-value policy matches the stochastic policy under current parameters; EVPI > 0 means perfect scenario information still has value.

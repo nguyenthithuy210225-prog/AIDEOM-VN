@@ -1,0 +1,2 @@
+﻿solver,shadow_price_source,objective,message
+PuLP_CBC,PuLP/CBC constraint pi,112.25,Optimal

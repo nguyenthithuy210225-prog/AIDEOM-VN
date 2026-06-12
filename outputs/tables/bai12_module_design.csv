@@ -1,0 +1,7 @@
+﻿module,name,input,output,method
+M1,Du bao kinh te,Macro 2020-2025,"GDP, TFP 2030",Cobb-Douglas
+M2,San sang so,"Sectors, Regions",Digital + AI Index,TOPSIS
+M3,Toi uu phan bo,"Budget, beta matrix",Phan bo nganh-vung,LP + dynamic
+M4,Lao dong,"AI, H plans",NetJob tung nganh,Simulation
+M5,Rui ro,Risk params,"Cyber, env, dependency",Pareto + SP
+M6,Dashboard,Outputs M1-M5,Truc quan kich ban,Streamlit + Plotly

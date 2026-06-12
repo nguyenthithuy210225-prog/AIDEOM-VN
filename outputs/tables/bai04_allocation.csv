@@ -1,0 +1,11 @@
+﻿region_id,region_name_vi,sector_id,sector_name_vi,item,item_name,coef,allocation,gdp_gain
+5,Đông Nam Bộ,8,Thông tin-Truyền thông-CNTT,AI,Năng lực AI,2.0368018719125858,16000.0,32588.829950601372
+2,Đồng bằng sông Hồng,2,Công nghiệp chế biến chế tạo,D,Chuyển đổi số DN,1.601016744107045,8500.0,13608.642324909883
+2,Đồng bằng sông Hồng,2,Công nghiệp chế biến chế tạo,AI,Năng lực AI,1.9517156499590649,6000.0,11710.29389975439
+1,Trung du miền núi phía Bắc,6,Tài chính-Ngân hàng-Bảo hiểm,I,Hạ tầng số,0.9558795991718426,4500.0,4301.458196273292
+4,Tây Nguyên,6,Tài chính-Ngân hàng-Bảo hiểm,I,Hạ tầng số,0.9498948784156952,4500.0,4274.5269528706285
+3,Bắc Trung Bộ và duyên hải miền Trung,6,Tài chính-Ngân hàng-Bảo hiểm,H,Nhân lực số,1.1221351417776138,4000.0,4488.540567110455
+6,Đồng bằng sông Cửu Long,6,Tài chính-Ngân hàng-Bảo hiểm,H,Nhân lực số,1.07990961199813,2000.0,2159.81922399626
+3,Bắc Trung Bộ và duyên hải miền Trung,2,Công nghiệp chế biến chế tạo,H,Nhân lực số,1.4312285151061024,1500.0,2146.8427726591535
+2,Đồng bằng sông Hồng,8,Thông tin-Truyền thông-CNTT,AI,Năng lực AI,1.9993242726314207,1500.0,2998.986408947131
+3,Bắc Trung Bộ và duyên hải miền Trung,2,Công nghiệp chế biến chế tạo,D,Chuyển đổi số DN,1.5027899408614074,1500.0,2254.184911292111

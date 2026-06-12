@@ -1,0 +1,13 @@
+# Runtime dependencies for Streamlit Community Cloud.
+# Because the entrypoint is dashboard/app.py, Streamlit Cloud will prefer this
+# file over the root requirements.txt.
+streamlit==1.50.0
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10
+plotly>=5.17
+pulp>=2.7
+cvxpy>=1.4
+pyomo>=6.6
+highspy>=1.5
+pymoo>=0.6.1

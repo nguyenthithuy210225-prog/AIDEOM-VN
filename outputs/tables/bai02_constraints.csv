@@ -1,0 +1,7 @@
+﻿constraint,sense,slack_or_surplus,shadow_price
+Ngân sách tổng,<=,0.0,1.35
+Hạ tầng số tối thiểu,>=,0.0,-0.5
+AI và dữ liệu tối thiểu,>=,0.0,-0.15
+Nhân lực số tối thiểu,>=,0.0,-0.4
+R&D tối thiểu,>=,30.0,-0.0
+Tỷ trọng AI + R&D >= 35%,>=,20.0,-0.0
